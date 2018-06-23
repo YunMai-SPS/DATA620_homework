@@ -1,0 +1,514 @@
+,sgender,tgender,source,target
+0,female,Male,Regulus Arcturus Black,Sirius Black
+1,Male,Male,Albus Dumbledore,Sirius Black
+2,Male,Male,Argus Filch,Sirius Black
+3,Male,Male,Bellatrix Lestrange,Sirius Black
+4,Male,Male,Remus Lupin,Sirius Black
+5,female,Male,Ron Weasley,Sirius Black
+6,female,Male,Peter Pettigrew,Sirius Black
+7,female,Male,James Potter,Sirius Black
+8,female,Male,Arthur Weasley,Sirius Black
+9,female,Male,Molly Weasley,Sirius Black
+10,female,Male,Regulus Arcturus Black,Bellatrix Lestrange
+11,Male,Male,Sirius Black,Bellatrix Lestrange
+12,female,Male,Vincent Crabbe Sr.,Bellatrix Lestrange
+13,female,Male,Fleur Delacour,Bellatrix Lestrange
+14,Male,Male,Albus Dumbledore,Bellatrix Lestrange
+15,female,Male,Narcissa Malfoy,Bellatrix Lestrange
+16,female,Male,Ron Weasley,Bellatrix Lestrange
+17,Male,Male,Dobby,Bellatrix Lestrange
+18,female,Male,Regulus Arcturus Black,Lord Voldemort
+19,Male,Male,Sirius Black,Lord Voldemort
+20,Male,Male,Cho Chang,Lord Voldemort
+21,female,Male,Vincent Crabbe Sr.,Lord Voldemort
+22,Male,Male,"Bartemius ""Barty"" Crouch Jr.",Lord Voldemort
+23,Male,Male,Cedric Diggory,Lord Voldemort
+24,Male,Male,Albus Dumbledore,Lord Voldemort
+25,Male,Male,Goyle Sr.,Lord Voldemort
+26,female,Male,Gregory Goyle,Lord Voldemort
+27,Male,Male,Hermione Granger,Lord Voldemort
+28,female,Male,Rubeus Hagrid,Lord Voldemort
+29,Male,Male,Igor Karkaroff,Lord Voldemort
+30,Male,Male,Bellatrix Lestrange,Lord Voldemort
+31,Male,Male,Frank Longbottom,Lord Voldemort
+32,female,Male,Neville Longbottom,Lord Voldemort
+33,Male,Male,Remus Lupin,Lord Voldemort
+34,Male,Male,Lucius Malfoy,Lord Voldemort
+35,female,Male,Narcissa Malfoy,Lord Voldemort
+36,female,Male,Minerva McGonagall,Lord Voldemort
+37,female,Male,Minerva McGonagall,Lord Voldemort
+38,Male,Male,Harry Potter,Lord Voldemort
+39,female,Male,Ron Weasley,Lord Voldemort
+40,Male,Male,"Alastor ""Mad-Eye"" Moody",Lord Voldemort
+41,female,Male,Peter Pettigrew,Lord Voldemort
+42,female,Male,James Potter,Lord Voldemort
+43,Male,Male,Lily Potter,Lord Voldemort
+44,Male,Male,Severus Snape,Lord Voldemort
+45,female,Male,Quirinus Quirrell,Lord Voldemort
+46,Male,Male,Tom Riddle Sr.,Lord Voldemort
+47,Male,Male,Tom Riddle Sr.,Lord Voldemort
+48,female,Male,Mary Riddle,Lord Voldemort
+49,female,Male,Nymphadora Tonks,Lord Voldemort
+50,Male,Male,Bill Weasley,Lord Voldemort
+51,female,Male,Charlie Weasley,Lord Voldemort
+52,Male,Male,Fred Weasley,Lord Voldemort
+53,female,Male,George Weasley,Lord Voldemort
+54,Male,Male,Ginny Weasley,Lord Voldemort
+55,female,Male,Molly Weasley,Lord Voldemort
+56,Male,female,Sirius Black,Regulus Arcturus Black
+57,female,female,Vincent Crabbe Sr.,Regulus Arcturus Black
+58,Male,Male,Sirius Black,Albus Dumbledore
+59,female,Male,Alberforth Dumbledore,Albus Dumbledore
+60,Male,Male,Petunia Dursley,Albus Dumbledore
+61,female,Male,Vernon Dursley,Albus Dumbledore
+62,Male,Male,Argus Filch,Albus Dumbledore
+63,Male,Male,Nicolas Flamel,Albus Dumbledore
+64,female,Male,Cornelius Fudge,Albus Dumbledore
+65,female,Male,Rubeus Hagrid,Albus Dumbledore
+66,Male,Male,Olympe Maxime,Albus Dumbledore
+67,female,Male,Minerva McGonagall,Albus Dumbledore
+68,female,Male,Minerva McGonagall,Albus Dumbledore
+69,female,Male,Ron Weasley,Albus Dumbledore
+70,Male,Male,"Alastor ""Mad-Eye"" Moody",Albus Dumbledore
+71,female,Male,Quirinus Quirrell,Albus Dumbledore
+72,female,Male,Quirinus Quirrell,Albus Dumbledore
+73,female,Male,Rita Skeeter,Albus Dumbledore
+74,Male,Male,Dolores Janes Umbridge,Albus Dumbledore
+75,female,Male,Arthur Weasley,Albus Dumbledore
+76,female,Male,Molly Weasley,Albus Dumbledore
+77,Male,Male,Sirius Black,Hermione Granger
+78,female,Male,Lavender Brown,Hermione Granger
+79,Male,Male,Cho Chang,Hermione Granger
+80,Male,Male,Vincent Crabbe,Hermione Granger
+81,Male,Male,"Bartemius ""Barty"" Crouch Jr.",Hermione Granger
+82,female,Male,Fleur Delacour,Hermione Granger
+83,female,Male,Alberforth Dumbledore,Hermione Granger
+84,Male,Male,Albus Dumbledore,Hermione Granger
+85,female,Male,Seamus Finnigan,Hermione Granger
+86,female,Male,Rubeus Hagrid,Hermione Granger
+87,female,Male,Viktor Krum,Hermione Granger
+88,female,Male,Neville Longbottom,Hermione Granger
+89,Male,Male,Luna Lovegood,Hermione Granger
+90,female,Male,Draco Malfoy,Hermione Granger
+91,female,Male,Minerva McGonagall,Hermione Granger
+92,female,Male,Ron Weasley,Hermione Granger
+93,Male,Male,"Alastor ""Mad-Eye"" Moody",Hermione Granger
+94,Male,Male,"Alastor ""Mad-Eye"" Moody",Hermione Granger
+95,Male,Male,Severus Snape,Hermione Granger
+96,Male,Male,Severus Snape,Hermione Granger
+97,female,Male,Quirinus Quirrell,Hermione Granger
+98,female,Male,Quirinus Quirrell,Hermione Granger
+99,Male,Male,Dolores Janes Umbridge,Hermione Granger
+100,Male,Male,Dolores Janes Umbridge,Hermione Granger
+101,female,Male,Arthur Weasley,Hermione Granger
+102,Male,Male,Bill Weasley,Hermione Granger
+103,female,Male,Charlie Weasley,Hermione Granger
+104,Male,Male,Fred Weasley,Hermione Granger
+105,female,Male,George Weasley,Hermione Granger
+106,Male,Male,Ginny Weasley,Hermione Granger
+107,female,Male,Molly Weasley,Hermione Granger
+108,Male,Male,Dobby,Hermione Granger
+109,female,Male,Fluffy,Hermione Granger
+110,Male,Male,Aragog,Hermione Granger
+111,female,Male,Grawp,Hermione Granger
+112,Male,Male,Sirius Black,Remus Lupin
+113,Male,Male,Albus Dumbledore,Remus Lupin
+114,female,Male,Ron Weasley,Remus Lupin
+115,female,Male,James Potter,Remus Lupin
+116,female,Male,Nymphadora Tonks,Remus Lupin
+117,Male,Male,Fred Weasley,Remus Lupin
+118,female,Male,George Weasley,Remus Lupin
+119,Male,Male,Ginny Weasley,Remus Lupin
+120,Male,Male,Sirius Black,Lucius Malfoy
+121,female,Male,Vincent Crabbe Sr.,Lucius Malfoy
+122,female,Male,Cornelius Fudge,Lucius Malfoy
+123,Male,Male,Bellatrix Lestrange,Lucius Malfoy
+124,female,Male,Draco Malfoy,Lucius Malfoy
+125,female,Male,Narcissa Malfoy,Lucius Malfoy
+126,female,Male,Ron Weasley,Lucius Malfoy
+127,female,Male,Arthur Weasley,Lucius Malfoy
+128,female,Male,Molly Weasley,Lucius Malfoy
+129,Male,Male,Dobby,Lucius Malfoy
+130,Male,female,Sirius Black,Narcissa Malfoy
+131,Male,female,Bellatrix Lestrange,Narcissa Malfoy
+132,female,female,Draco Malfoy,Narcissa Malfoy
+133,Male,female,Lucius Malfoy,Narcissa Malfoy
+134,Male,female,Sirius Black,Minerva McGonagall
+135,Male,female,"Bartemius ""Barty"" Crouch Jr.",Minerva McGonagall
+136,Male,female,Albus Dumbledore,Minerva McGonagall
+137,Male,female,Albus Dumbledore,Minerva McGonagall
+138,Male,female,Albus Dumbledore,Minerva McGonagall
+139,Male,female,Argus Filch,Minerva McGonagall
+140,Male,female,Hermione Granger,Minerva McGonagall
+141,female,female,Rubeus Hagrid,Minerva McGonagall
+142,Male,female,Remus Lupin,Minerva McGonagall
+143,Male,female,Harry Potter,Minerva McGonagall
+144,female,female,Ron Weasley,Minerva McGonagall
+145,female,female,Ron Weasley,Minerva McGonagall
+146,Male,female,Lord Voldemort,Minerva McGonagall
+147,Male,Male,Sirius Black,"Alastor ""Mad-Eye"" Moody"
+148,Male,Male,"Bartemius ""Barty"" Crouch Jr.","Alastor ""Mad-Eye"" Moody"
+149,Male,Male,"Bartemius ""Barty"" Crouch Jr.","Alastor ""Mad-Eye"" Moody"
+150,female,Male,Fleur Delacour,"Alastor ""Mad-Eye"" Moody"
+151,Male,Male,Albus Dumbledore,"Alastor ""Mad-Eye"" Moody"
+152,Male,Male,Albus Dumbledore,"Alastor ""Mad-Eye"" Moody"
+153,Male,Male,Hermione Granger,"Alastor ""Mad-Eye"" Moody"
+154,Male,Male,Hermione Granger,"Alastor ""Mad-Eye"" Moody"
+155,Male,Male,Harry Potter,"Alastor ""Mad-Eye"" Moody"
+156,female,Male,Ron Weasley,"Alastor ""Mad-Eye"" Moody"
+157,Male,Male,Lord Voldemort,"Alastor ""Mad-Eye"" Moody"
+158,Male,female,Sirius Black,Peter Pettigrew
+159,Male,female,Sirius Black,Peter Pettigrew
+160,female,female,Vincent Crabbe Sr.,Peter Pettigrew
+161,Male,female,"Bartemius ""Barty"" Crouch Jr.",Peter Pettigrew
+162,Male,female,Albus Dumbledore,Peter Pettigrew
+163,Male,female,Argus Filch,Peter Pettigrew
+164,Male,female,Hermione Granger,Peter Pettigrew
+165,Male,female,Remus Lupin,Peter Pettigrew
+166,Male,female,Harry Potter,Peter Pettigrew
+167,female,female,Ron Weasley,Peter Pettigrew
+168,Male,female,Lord Voldemort,Peter Pettigrew
+169,female,female,James Potter,Peter Pettigrew
+170,female,female,James Potter,Peter Pettigrew
+171,Male,female,Lily Potter,Peter Pettigrew
+172,Male,female,Fred Weasley,Peter Pettigrew
+173,female,female,George Weasley,Peter Pettigrew
+174,Male,female,Ginny Weasley,Peter Pettigrew
+175,Male,Male,Sirius Black,Harry Potter
+176,Male,Male,Cho Chang,Harry Potter
+177,Male,Male,Vincent Crabbe,Harry Potter
+178,Male,Male,"Bartemius ""Barty"" Crouch Jr.",Harry Potter
+179,female,Male,Fleur Delacour,Harry Potter
+180,Male,Male,Cedric Diggory,Harry Potter
+181,female,Male,Alberforth Dumbledore,Harry Potter
+182,Male,Male,Albus Dumbledore,Harry Potter
+183,female,Male,Dudley Dursley,Harry Potter
+184,Male,Male,Petunia Dursley,Harry Potter
+185,female,Male,Vernon Dursley,Harry Potter
+186,Male,Male,Argus Filch,Harry Potter
+187,female,Male,Seamus Finnigan,Harry Potter
+188,female,Male,Cornelius Fudge,Harry Potter
+189,female,Male,Gregory Goyle,Harry Potter
+190,Male,Male,Hermione Granger,Harry Potter
+191,female,Male,Rubeus Hagrid,Harry Potter
+192,female,Male,Viktor Krum,Harry Potter
+193,Male,Male,Bellatrix Lestrange,Harry Potter
+194,female,Male,Neville Longbottom,Harry Potter
+195,Male,Male,Luna Lovegood,Harry Potter
+196,Male,Male,Remus Lupin,Harry Potter
+197,female,Male,Draco Malfoy,Harry Potter
+198,Male,Male,Lucius Malfoy,Harry Potter
+199,female,Male,Minerva McGonagall,Harry Potter
+200,female,Male,Ron Weasley,Harry Potter
+201,Male,Male,"Alastor ""Mad-Eye"" Moody",Harry Potter
+202,female,Male,Peter Pettigrew,Harry Potter
+203,female,Male,James Potter,Harry Potter
+204,Male,Male,Lily Potter,Harry Potter
+205,Male,Male,Severus Snape,Harry Potter
+206,female,Male,Quirinus Quirrell,Harry Potter
+207,female,Male,Rita Skeeter,Harry Potter
+208,Male,Male,Dolores Janes Umbridge,Harry Potter
+209,female,Male,Arthur Weasley,Harry Potter
+210,Male,Male,Bill Weasley,Harry Potter
+211,female,Male,Charlie Weasley,Harry Potter
+212,Male,Male,Fred Weasley,Harry Potter
+213,female,Male,George Weasley,Harry Potter
+214,Male,Male,Ginny Weasley,Harry Potter
+215,female,Male,Molly Weasley,Harry Potter
+216,Male,Male,Dobby,Harry Potter
+217,female,Male,Fluffy,Harry Potter
+218,Male,Male,Hedwig,Harry Potter
+219,female,Male,Moaning Myrtle,Harry Potter
+220,Male,Male,Aragog,Harry Potter
+221,female,Male,Grawp,Harry Potter
+222,Male,female,Sirius Black,James Potter
+223,Male,female,Sirius Black,James Potter
+224,Male,female,Albus Dumbledore,James Potter
+225,Male,female,Argus Filch,James Potter
+226,Male,female,Remus Lupin,James Potter
+227,Male,female,Remus Lupin,James Potter
+228,Male,female,Harry Potter,James Potter
+229,Male,female,Lord Voldemort,James Potter
+230,female,female,Peter Pettigrew,James Potter
+231,female,female,Peter Pettigrew,James Potter
+232,Male,female,Lily Potter,James Potter
+233,Male,Male,Sirius Black,Lily Potter
+234,Male,Male,Albus Dumbledore,Lily Potter
+235,Male,Male,Petunia Dursley,Lily Potter
+236,Male,Male,Lord Voldemort,Lily Potter
+237,female,Male,Peter Pettigrew,Lily Potter
+238,female,Male,James Potter,Lily Potter
+239,Male,Male,Severus Snape,Lily Potter
+240,Male,Male,Severus Snape,Lily Potter
+241,Male,Male,Sirius Black,Severus Snape
+242,female,Male,Vincent Crabbe Sr.,Severus Snape
+243,Male,Male,"Bartemius ""Barty"" Crouch Jr.",Severus Snape
+244,Male,Male,Albus Dumbledore,Severus Snape
+245,Male,Male,Argus Filch,Severus Snape
+246,Male,Male,Hermione Granger,Severus Snape
+247,Male,Male,Hermione Granger,Severus Snape
+248,Male,Male,Hermione Granger,Severus Snape
+249,female,Male,Rubeus Hagrid,Severus Snape
+250,Male,Male,Harry Potter,Severus Snape
+251,female,Male,Ron Weasley,Severus Snape
+252,Male,Male,Lord Voldemort,Severus Snape
+253,Male,Male,Lily Potter,Severus Snape
+254,Male,Male,Lily Potter,Severus Snape
+255,Male,Male,Fred Weasley,Severus Snape
+256,female,Male,George Weasley,Severus Snape
+257,Male,Male,Ginny Weasley,Severus Snape
+258,Male,female,Sirius Black,Nymphadora Tonks
+259,Male,female,Bellatrix Lestrange,Nymphadora Tonks
+260,Male,female,Remus Lupin,Nymphadora Tonks
+261,Male,female,Remus Lupin,Nymphadora Tonks
+262,Male,female,Sirius Black,Arthur Weasley
+263,Male,female,Albus Dumbledore,Arthur Weasley
+264,female,female,Cornelius Fudge,Arthur Weasley
+265,Male,female,Hermione Granger,Arthur Weasley
+266,female,female,Ron Weasley,Arthur Weasley
+267,Male,female,"Alastor ""Mad-Eye"" Moody",Arthur Weasley
+268,Male,female,Bill Weasley,Arthur Weasley
+269,Male,female,Bill Weasley,Arthur Weasley
+270,female,female,Charlie Weasley,Arthur Weasley
+271,female,female,Charlie Weasley,Arthur Weasley
+272,Male,female,Fred Weasley,Arthur Weasley
+273,Male,female,Fred Weasley,Arthur Weasley
+274,female,female,George Weasley,Arthur Weasley
+275,female,female,George Weasley,Arthur Weasley
+276,female,female,George Weasley,Arthur Weasley
+277,Male,female,Ginny Weasley,Arthur Weasley
+278,Male,female,Ginny Weasley,Arthur Weasley
+279,Male,female,Percy Weasley,Arthur Weasley
+280,Male,female,Percy Weasley,Arthur Weasley
+281,female,female,Molly Weasley,Arthur Weasley
+282,Male,Male,Sirius Black,Fred Weasley
+283,Male,Male,Albus Dumbledore,Fred Weasley
+284,Male,Male,Argus Filch,Fred Weasley
+285,female,Male,Ron Weasley,Fred Weasley
+286,female,Male,Arthur Weasley,Fred Weasley
+287,Male,Male,Bill Weasley,Fred Weasley
+288,female,Male,Charlie Weasley,Fred Weasley
+289,female,Male,George Weasley,Fred Weasley
+290,Male,Male,Ginny Weasley,Fred Weasley
+291,Male,Male,Percy Weasley,Fred Weasley
+292,female,Male,Molly Weasley,Fred Weasley
+293,Male,female,Sirius Black,George Weasley
+294,Male,female,Albus Dumbledore,George Weasley
+295,Male,female,Argus Filch,George Weasley
+296,Male,female,Hermione Granger,George Weasley
+297,female,female,Ron Weasley,George Weasley
+298,female,female,Arthur Weasley,George Weasley
+299,female,female,Arthur Weasley,George Weasley
+300,Male,female,Bill Weasley,George Weasley
+301,Male,female,Bill Weasley,George Weasley
+302,female,female,Charlie Weasley,George Weasley
+303,female,female,Charlie Weasley,George Weasley
+304,Male,female,Fred Weasley,George Weasley
+305,Male,female,Ginny Weasley,George Weasley
+306,Male,female,Percy Weasley,George Weasley
+307,female,female,Molly Weasley,George Weasley
+308,Male,Male,Sirius Black,Ginny Weasley
+309,female,Male,Fleur Delacour,Ginny Weasley
+310,Male,Male,Albus Dumbledore,Ginny Weasley
+311,female,Male,Seamus Finnigan,Ginny Weasley
+312,female,Male,Ron Weasley,Ginny Weasley
+313,female,Male,Arthur Weasley,Ginny Weasley
+314,Male,Male,Bill Weasley,Ginny Weasley
+315,female,Male,Charlie Weasley,Ginny Weasley
+316,Male,Male,Fred Weasley,Ginny Weasley
+317,female,Male,George Weasley,Ginny Weasley
+318,Male,Male,Percy Weasley,Ginny Weasley
+319,female,Male,Molly Weasley,Ginny Weasley
+320,Male,female,Sirius Black,Ron Weasley
+321,female,female,Lavender Brown,Ron Weasley
+322,Male,female,Cho Chang,Ron Weasley
+323,Male,female,Vincent Crabbe,Ron Weasley
+324,female,female,Fleur Delacour,Ron Weasley
+325,female,female,Alberforth Dumbledore,Ron Weasley
+326,Male,female,Albus Dumbledore,Ron Weasley
+327,female,female,Seamus Finnigan,Ron Weasley
+328,Male,female,Hermione Granger,Ron Weasley
+329,female,female,Rubeus Hagrid,Ron Weasley
+330,female,female,Neville Longbottom,Ron Weasley
+331,Male,female,Luna Lovegood,Ron Weasley
+332,female,female,Draco Malfoy,Ron Weasley
+333,female,female,Minerva McGonagall,Ron Weasley
+334,Male,female,Fred Weasley,Ron Weasley
+335,female,female,George Weasley,Ron Weasley
+336,Male,female,Ginny Weasley,Ron Weasley
+337,Male,female,Percy Weasley,Ron Weasley
+338,female,female,Molly Weasley,Ron Weasley
+339,Male,female,Dobby,Ron Weasley
+340,female,female,Fluffy,Ron Weasley
+341,Male,female,Aragog,Ron Weasley
+342,Male,female,Aragog,Ron Weasley
+343,female,female,Lavender Brown,Neville Longbottom
+344,Male,female,Cho Chang,Neville Longbottom
+345,Male,female,"Bartemius ""Barty"" Crouch Jr.",Neville Longbottom
+346,female,female,Fleur Delacour,Neville Longbottom
+347,female,female,Seamus Finnigan,Neville Longbottom
+348,Male,female,Hermione Granger,Neville Longbottom
+349,female,female,Rubeus Hagrid,Neville Longbottom
+350,female,female,Alice Longbottom,Neville Longbottom
+351,Male,female,Frank Longbottom,Neville Longbottom
+352,Male,female,Luna Lovegood,Neville Longbottom
+353,female,female,Ron Weasley,Neville Longbottom
+354,Male,Male,Cho Chang,Cedric Diggory
+355,female,Male,Viktor Krum,Cedric Diggory
+356,Male,female,Cho Chang,Seamus Finnigan
+357,female,female,Ron Weasley,Seamus Finnigan
+358,female,Male,Vincent Crabbe Sr.,Vincent Crabbe
+359,female,Male,Gregory Goyle,Vincent Crabbe
+360,female,Male,Draco Malfoy,Vincent Crabbe
+361,female,female,Vincent Crabbe Sr.,"Bartemius ""Barty"" Crouch Sr."
+362,Male,female,"Bartemius ""Barty"" Crouch Jr.","Bartemius ""Barty"" Crouch Sr."
+363,Male,female,Vincent Crabbe,Vincent Crabbe Sr.
+364,female,female,"Bartemius ""Barty"" Crouch Sr.",Vincent Crabbe Sr.
+365,Male,female,Goyle Sr.,Vincent Crabbe Sr.
+366,Male,Male,Vincent Crabbe,Dolores Janes Umbridge
+367,Male,Male,Albus Dumbledore,Dolores Janes Umbridge
+368,Male,Male,Albus Dumbledore,Dolores Janes Umbridge
+369,Male,Male,Albus Dumbledore,Dolores Janes Umbridge
+370,Male,Male,Argus Filch,Dolores Janes Umbridge
+371,female,Male,Cornelius Fudge,Dolores Janes Umbridge
+372,female,Male,Cornelius Fudge,Dolores Janes Umbridge
+373,Male,Male,Hermione Granger,Dolores Janes Umbridge
+374,Male,Male,Hermione Granger,Dolores Janes Umbridge
+375,female,Male,Minerva McGonagall,Dolores Janes Umbridge
+376,Male,Male,Harry Potter,Dolores Janes Umbridge
+377,female,Male,Ron Weasley,Dolores Janes Umbridge
+378,Male,female,Vincent Crabbe,Gregory Goyle
+379,Male,female,Goyle Sr.,Gregory Goyle
+380,Male,female,Hermione Granger,Gregory Goyle
+381,female,female,Draco Malfoy,Gregory Goyle
+382,female,female,Ron Weasley,Gregory Goyle
+383,Male,female,Vincent Crabbe,Draco Malfoy
+384,female,female,Gregory Goyle,Draco Malfoy
+385,Male,female,Hermione Granger,Draco Malfoy
+386,female,female,Neville Longbottom,Draco Malfoy
+387,Male,female,Lucius Malfoy,Draco Malfoy
+388,female,female,Ron Weasley,Draco Malfoy
+389,Male,female,Dobby,Draco Malfoy
+390,female,Male,"Bartemius ""Barty"" Crouch Sr.","Bartemius ""Barty"" Crouch Jr."
+391,Male,Male,"Alastor ""Mad-Eye"" Moody","Bartemius ""Barty"" Crouch Jr."
+392,female,Male,"Bartemius ""Barty"" Crouch Sr.",Igor Karkaroff
+393,female,Male,Viktor Krum,Igor Karkaroff
+394,Male,Male,Olympe Maxime,Igor Karkaroff
+395,female,Male,"Bartemius ""Barty"" Crouch Sr.",Percy Weasley
+396,Male,Male,Albus Dumbledore,Percy Weasley
+397,female,Male,Cornelius Fudge,Percy Weasley
+398,female,Male,Ron Weasley,Percy Weasley
+399,female,Male,Arthur Weasley,Percy Weasley
+400,Male,Male,Bill Weasley,Percy Weasley
+401,female,Male,Charlie Weasley,Percy Weasley
+402,Male,Male,Fred Weasley,Percy Weasley
+403,female,Male,George Weasley,Percy Weasley
+404,Male,Male,Ginny Weasley,Percy Weasley
+405,Male,Male,Ginny Weasley,Percy Weasley
+406,female,Male,Molly Weasley,Percy Weasley
+407,female,Male,Fleur Delacour,Bill Weasley
+408,Male,Male,Albus Dumbledore,Bill Weasley
+409,Male,Male,Hermione Granger,Bill Weasley
+410,female,Male,Ron Weasley,Bill Weasley
+411,female,Male,Arthur Weasley,Bill Weasley
+412,female,Male,Arthur Weasley,Bill Weasley
+413,female,Male,Charlie Weasley,Bill Weasley
+414,Male,Male,Fred Weasley,Bill Weasley
+415,Male,Male,Fred Weasley,Bill Weasley
+416,female,Male,George Weasley,Bill Weasley
+417,female,Male,George Weasley,Bill Weasley
+418,female,Male,George Weasley,Bill Weasley
+419,Male,Male,Ginny Weasley,Bill Weasley
+420,Male,Male,Ginny Weasley,Bill Weasley
+421,Male,Male,Percy Weasley,Bill Weasley
+422,Male,Male,Percy Weasley,Bill Weasley
+423,female,Male,Molly Weasley,Bill Weasley
+424,female,female,Fleur Delacour,Molly Weasley
+425,Male,female,Albus Dumbledore,Molly Weasley
+426,Male,female,Hermione Granger,Molly Weasley
+427,Male,female,Bellatrix Lestrange,Molly Weasley
+428,female,female,Ron Weasley,Molly Weasley
+429,Male,female,"Alastor ""Mad-Eye"" Moody",Molly Weasley
+430,Male,female,Fred Weasley,Molly Weasley
+431,female,female,George Weasley,Molly Weasley
+432,Male,female,Ginny Weasley,Molly Weasley
+433,Male,female,Percy Weasley,Molly Weasley
+434,Male,Male,Cedric Diggory,Cho Chang
+435,female,Male,Seamus Finnigan,Cho Chang
+436,female,Male,Alberforth Dumbledore,Dobby
+437,Male,Male,Bellatrix Lestrange,Dobby
+438,Male,Male,Lucius Malfoy,Dobby
+439,female,Male,Ron Weasley,Dobby
+440,Male,female,Albus Dumbledore,Alberforth Dumbledore
+441,Male,Male,Albus Dumbledore,Petunia Dursley
+442,Male,Male,Petunia Dursley,Petunia Dursley
+443,female,Male,Vernon Dursley,Petunia Dursley
+444,Male,female,Albus Dumbledore,Vernon Dursley
+445,female,female,Dudley Dursley,Vernon Dursley
+446,Male,female,Albus Dumbledore,Rubeus Hagrid
+447,female,female,Dudley Dursley,Rubeus Hagrid
+448,Male,female,Argus Filch,Rubeus Hagrid
+449,Male,female,Olympe Maxime,Rubeus Hagrid
+450,female,female,Minerva McGonagall,Rubeus Hagrid
+451,female,female,Ron Weasley,Rubeus Hagrid
+452,female,female,Fluffy,Rubeus Hagrid
+453,Male,female,Aragog,Rubeus Hagrid
+454,female,female,Grawp,Rubeus Hagrid
+455,Male,female,Albus Dumbledore,Quirinus Quirrell
+456,Male,female,Albus Dumbledore,Quirinus Quirrell
+457,Male,female,Albus Dumbledore,Quirinus Quirrell
+458,Male,female,Hermione Granger,Quirinus Quirrell
+459,Male,female,Hermione Granger,Quirinus Quirrell
+460,Male,female,Harry Potter,Quirinus Quirrell
+461,Male,female,Lord Voldemort,Quirinus Quirrell
+462,Male,female,Albus Dumbledore,Rita Skeeter
+463,Male,female,Albus Dumbledore,Rita Skeeter
+464,Male,female,Harry Potter,Rita Skeeter
+465,Male,female,Albus Dumbledore,Charlie Weasley
+466,Male,female,Hermione Granger,Charlie Weasley
+467,female,female,Ron Weasley,Charlie Weasley
+468,female,female,Arthur Weasley,Charlie Weasley
+469,female,female,Arthur Weasley,Charlie Weasley
+470,Male,female,Bill Weasley,Charlie Weasley
+471,Male,female,Fred Weasley,Charlie Weasley
+472,Male,female,Fred Weasley,Charlie Weasley
+473,female,female,George Weasley,Charlie Weasley
+474,female,female,George Weasley,Charlie Weasley
+475,female,female,George Weasley,Charlie Weasley
+476,Male,female,Ginny Weasley,Charlie Weasley
+477,Male,female,Ginny Weasley,Charlie Weasley
+478,Male,female,Percy Weasley,Charlie Weasley
+479,Male,female,Percy Weasley,Charlie Weasley
+480,female,female,Molly Weasley,Charlie Weasley
+481,female,female,Dudley Dursley,Dudley Dursley
+482,Male,female,Petunia Dursley,Dudley Dursley
+483,female,female,Vernon Dursley,Dudley Dursley
+484,female,female,Seamus Finnigan,Lavender Brown
+485,female,Male,Seamus Finnigan,Luna Lovegood
+486,Male,Male,Hermione Granger,Luna Lovegood
+487,female,Male,Neville Longbottom,Luna Lovegood
+488,female,Male,Xenophilius Lovegood,Luna Lovegood
+489,female,Male,Ron Weasley,Luna Lovegood
+490,female,Male,Gregory Goyle,Goyle Sr.
+491,Male,Male,Hermione Granger,Argus Filch
+492,female,Male,Minerva McGonagall,Argus Filch
+493,female,Male,Ron Weasley,Argus Filch
+494,female,female,Rubeus Hagrid,Fluffy
+495,female,female,Ron Weasley,Fluffy
+496,female,Male,Rubeus Hagrid,Aragog
+497,female,Male,Ron Weasley,Aragog
+498,female,female,Rubeus Hagrid,Grawp
+499,female,female,Ron Weasley,Grawp
+500,female,Male,Rubeus Hagrid,Olympe Maxime
+501,Male,female,Igor Karkaroff,Viktor Krum
+502,female,female,Viktor Krum,Fleur Delacour
+503,Male,female,Olympe Maxime,Fleur Delacour
+504,female,female,Ron Weasley,Fleur Delacour
+505,female,Male,Alice Longbottom,Frank Longbottom
+506,female,Male,Alice Longbottom,Frank Longbottom
+507,Male,female,Frank Longbottom,Alice Longbottom
+508,Male,Male,Lord Voldemort,Tom Riddle Sr.
+509,Male,Male,Tom Riddle Sr.,Tom Riddle Sr.
+510,female,Male,Mary Riddle,Tom Riddle Sr.
+511,Male,female,Tom Riddle Sr.,Mary Riddle
+512,Male,female,Dolores Janes Umbridge,Cornelius Fudge
